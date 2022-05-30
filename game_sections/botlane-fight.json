@@ -1,0 +1,6768 @@
+[
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12350.024691358025,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 601,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 388,
+                "max": 418,
+                "percent": 95
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 5,
+        "video_sec": 0.13971251673360108,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12350.024691358025,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 601,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 388,
+                "max": 418,
+                "percent": 95
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 10,
+        "video_sec": 0.27942503346720216,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12350.024691358025,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 601,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 95
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 15,
+        "video_sec": 0.41913755020080323,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12350.024691358025,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 601,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 95
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 20,
+        "video_sec": 0.5588500669344043,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12289.037037037036,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 119,
+            "w": 114,
+            "e": 44,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 601,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 95
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 25,
+        "video_sec": 0.6985625836680054,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12289.037037037036,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 30,
+        "video_sec": 0.8382751004016065,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12289.037037037036,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 119,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 35,
+        "video_sec": 0.9779876171352075,
+        "video_clock": "00:00"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12350.024691358025,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 40,
+        "video_sec": 1.1177001338688086,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12411.012345679012,
+            "y": 2406.369294605809
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 389,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 45,
+        "video_sec": 1.2574126506024097,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12411.012345679012,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 390,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 50,
+        "video_sec": 1.3971251673360108,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12472.0,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 390,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 55,
+        "video_sec": 1.5368376840696119,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12532.987654320988,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 390,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 60,
+        "video_sec": 1.676550200803213,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12532.987654320988,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 39,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 602,
+                "max": 703,
+                "percent": 87
+            },
+            "mana": {
+                "current": 390,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 65,
+        "video_sec": 1.816262717536814,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12593.975308641975,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 391,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 70,
+        "video_sec": 1.955975234270415,
+        "video_clock": "00:01"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12654.962962962964,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 391,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 75,
+        "video_sec": 2.095687751004016,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 391,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 35
+            }
+        },
+        "frame_num": 80,
+        "video_sec": 2.2354002677376172,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 391,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 85,
+        "video_sec": 2.3751127844712183,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 392,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 90,
+        "video_sec": 2.5148253012048194,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 392,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 95,
+        "video_sec": 2.6545378179384205,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 45,
+            "r": 50,
+            "spell1": 43,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 392,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 100,
+        "video_sec": 2.7942503346720216,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 121,
+            "w": 115,
+            "e": 46,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 393,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 105,
+        "video_sec": 2.9339628514056226,
+        "video_clock": "00:02"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 393,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 110,
+        "video_sec": 3.0736753681392237,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 119,
+            "w": 34,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 603,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 393,
+                "max": 418,
+                "percent": 97
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 115,
+        "video_sec": 3.213387884872825,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 119,
+            "w": 33,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 604,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 334,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 120,
+        "video_sec": 3.353100401606426,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 35,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 604,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 334,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 125,
+        "video_sec": 3.492812918340027,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 33,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 612,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 334,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 130,
+        "video_sec": 3.632525435073628,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 35,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 612,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 334,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 135,
+        "video_sec": 3.772237951807229,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 35,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 613,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 335,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 140,
+        "video_sec": 3.91195046854083,
+        "video_clock": "00:03"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 36,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 613,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 335,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 145,
+        "video_sec": 4.051662985274431,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 36,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 615,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 335,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 150,
+        "video_sec": 4.191375502008032,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 35,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 615,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 335,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 155,
+        "video_sec": 4.331088018741633,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 36,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 615,
+                "max": 703,
+                "percent": 90
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 160,
+        "video_sec": 4.4708005354752345,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2715.103734439834
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 622,
+                "max": 703,
+                "percent": 92
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 165,
+        "video_sec": 4.610513052208836,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2715.103734439834
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 624,
+                "max": 703,
+                "percent": 92
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 170,
+        "video_sec": 4.750225568942437,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2715.103734439834
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 50,
+            "spell1": 38,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 624,
+                "max": 703,
+                "percent": 92
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 175,
+        "video_sec": 4.889938085676038,
+        "video_clock": "00:04"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2776.850622406639
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 50,
+            "spell1": 38,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 625,
+                "max": 703,
+                "percent": 92
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 180,
+        "video_sec": 5.029650602409639,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2776.850622406639
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 50,
+            "spell1": 38,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 563,
+                "max": 7031,
+                "percent": 87
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 185,
+        "video_sec": 5.16936311914324,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 39,
+            "e": 45,
+            "r": 50,
+            "spell1": 38,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 565,
+                "max": 703,
+                "percent": 82
+            },
+            "mana": {
+                "current": 336,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 190,
+        "video_sec": 5.309075635876841,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 40,
+            "e": 45,
+            "r": 50,
+            "spell1": 39,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 565,
+                "max": 703,
+                "percent": 82
+            },
+            "mana": {
+                "current": 337,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 195,
+        "video_sec": 5.448788152610442,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 40,
+            "e": 45,
+            "r": 50,
+            "spell1": 39,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 572,
+                "max": 703,
+                "percent": 84
+            },
+            "mana": {
+                "current": 337,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 200,
+        "video_sec": 5.588500669344043,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 41,
+            "e": 45,
+            "r": 50,
+            "spell1": 39,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 574,
+                "max": 703,
+                "percent": 84
+            },
+            "mana": {
+                "current": 337,
+                "max": 418,
+                "percent": 82
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 205,
+        "video_sec": 5.728213186077644,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 41,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 491,
+                "max": 7031,
+                "percent": 82
+            },
+            "mana": {
+                "current": 338,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 210,
+        "video_sec": 5.867925702811245,
+        "video_clock": "00:05"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 41,
+            "e": 45,
+            "r": 50,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 481,
+                "max": 703,
+                "percent": 71
+            },
+            "mana": {
+                "current": 338,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 215,
+        "video_sec": 6.007638219544846,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 41,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 471,
+                "max": 703,
+                "percent": 69
+            },
+            "mana": {
+                "current": 338,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 220,
+        "video_sec": 6.147350736278447,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 473,
+                "max": 703,
+                "percent": 69
+            },
+            "mana": {
+                "current": 338,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 225,
+        "video_sec": 6.2870632530120485,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 50,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 475,
+                "max": 703,
+                "percent": 69
+            },
+            "mana": {
+                "current": 339,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 230,
+        "video_sec": 6.42677576974565,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 414,
+                "max": 703,
+                "percent": 61
+            },
+            "mana": {
+                "current": 339,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 235,
+        "video_sec": 6.566488286479251,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 414,
+                "max": 703,
+                "percent": 61
+            },
+            "mana": {
+                "current": 339,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 240,
+        "video_sec": 6.706200803212852,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 416,
+                "max": 703,
+                "percent": 61
+            },
+            "mana": {
+                "current": 340,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 245,
+        "video_sec": 6.845913319946453,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 416,
+                "max": 703,
+                "percent": 61
+            },
+            "mana": {
+                "current": 340,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 250,
+        "video_sec": 6.985625836680054,
+        "video_clock": "00:06"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 120,
+            "w": 37,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 408,
+                "max": 703,
+                "percent": 59
+            },
+            "mana": {
+                "current": 340,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 255,
+        "video_sec": 7.125338353413655,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 119,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 393,
+                "max": 703,
+                "percent": 56
+            },
+            "mana": {
+                "current": 340,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 260,
+        "video_sec": 7.265050870147256,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 119,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 395,
+                "max": 703,
+                "percent": 58
+            },
+            "mana": {
+                "current": 341,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 265,
+        "video_sec": 7.404763386880857,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 33,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 395,
+                "max": 703,
+                "percent": 58
+            },
+            "mana": {
+                "current": 341,
+                "max": 418,
+                "percent": 84
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 270,
+        "video_sec": 7.544475903614458,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 33,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 395,
+                "max": 703,
+                "percent": 58
+            },
+            "mana": {
+                "current": 291,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 275,
+        "video_sec": 7.684188420348059,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 35,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 335,
+                "max": 703,
+                "percent": 48
+            },
+            "mana": {
+                "current": 292,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 280,
+        "video_sec": 7.82390093708166,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 36,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 337,
+                "max": 703,
+                "percent": 48
+            },
+            "mana": {
+                "current": 292,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 285,
+        "video_sec": 7.963613453815261,
+        "video_clock": "00:07"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 327,
+                "max": 703,
+                "percent": 48
+            },
+            "mana": {
+                "current": 292,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 290,
+        "video_sec": 8.103325970548863,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 327,
+                "max": 703,
+                "percent": 48
+            },
+            "mana": {
+                "current": 292,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 295,
+        "video_sec": 8.243038487282464,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 40,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 329,
+                "max": 703,
+                "percent": 48
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 300,
+        "video_sec": 8.382751004016065,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 36,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 325,
+                "max": 703,
+                "percent": 45
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 305,
+        "video_sec": 8.522463520749666,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3147.3319502074687
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 38,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 310,
+                "max": 703,
+                "percent": 45
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 310,
+        "video_sec": 8.662176037483267,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 39,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 312,
+                "max": 703,
+                "percent": 45
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 40
+            }
+        },
+        "frame_num": 315,
+        "video_sec": 8.801888554216868,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13752.74074074074,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 39,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 314,
+                "max": 703,
+                "percent": 45
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 320,
+        "video_sec": 8.941601070950469,
+        "video_clock": "00:08"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 252,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 325,
+        "video_sec": 9.08131358768407,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 183,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 293,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 330,
+        "video_sec": 9.221026104417671,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 173,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 294,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 335,
+        "video_sec": 9.360738621151272,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3085.585062240664
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 158,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 294,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 340,
+        "video_sec": 9.500451137884873,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 38,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 158,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 294,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 345,
+        "video_sec": 9.640163654618474,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13691.753086419752,
+            "y": 3023.838174273859
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 158,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 295,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 350,
+        "video_sec": 9.779876171352075,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 158,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 295,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 45
+            }
+        },
+        "frame_num": 355,
+        "video_sec": 9.919588688085677,
+        "video_clock": "00:09"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 177,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 295,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 360,
+        "video_sec": 10.059301204819278,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 173,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 296,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 365,
+        "video_sec": 10.199013721552879,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13630.765432098766,
+            "y": 2900.344398340249
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 167,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 296,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 370,
+        "video_sec": 10.33872623828648,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13569.777777777777,
+            "y": 2900.344398340249
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 36,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 41,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 167,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 296,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 375,
+        "video_sec": 10.47843875502008,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 167,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 296,
+                "max": 418,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 380,
+        "video_sec": 10.618151271753682,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 167,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 297,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 385,
+        "video_sec": 10.757863788487283,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 157,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 297,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 51
+            }
+        },
+        "frame_num": 390,
+        "video_sec": 10.897576305220884,
+        "video_clock": "00:10"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 157,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 297,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 395,
+        "video_sec": 11.037288821954485,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 3147,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 297,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 400,
+        "video_sec": 11.177001338688086,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 44,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 147,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 298,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 405,
+        "video_sec": 11.316713855421687,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 131,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 298,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 410,
+        "video_sec": 11.456426372155288,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13203.851851851852,
+            "y": 2406.369294605809
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 40,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 121,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 298,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 415,
+        "video_sec": 11.59613888888889,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2406.369294605809
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 122,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 299,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 420,
+        "video_sec": 11.73585140562249,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13142.864197530864,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 122,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 299,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 425,
+        "video_sec": 11.875563922356092,
+        "video_clock": "00:11"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 43,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 122,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 299,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 430,
+        "video_sec": 12.015276439089693,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 41,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 127,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 435,
+        "video_sec": 12.154988955823294,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 127,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 440,
+        "video_sec": 12.294701472556895,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 59
+        },
+        "bars": {
+            "health": {
+                "current": 127,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 445,
+        "video_sec": 12.434413989290496,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2097.6348547717844
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 127,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 450,
+        "video_sec": 12.574126506024097,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2097.6348547717844
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 40,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 132,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 455,
+        "video_sec": 12.713839022757698,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 39,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 132,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 460,
+        "video_sec": 12.8535515394913,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 43,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 132,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 465,
+        "video_sec": 12.9932640562249,
+        "video_clock": "00:12"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 43,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 132,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 300,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 56
+            }
+        },
+        "frame_num": 470,
+        "video_sec": 13.132976572958501,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 44,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 130,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 301,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 475,
+        "video_sec": 13.272689089692102,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 46,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 130,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 301,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 480,
+        "video_sec": 13.412401606425703,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 47,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 120,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 301,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 485,
+        "video_sec": 13.552114123159305,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 46,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 120,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 301,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 490,
+        "video_sec": 13.691826639892906,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 42,
+            "e": 45,
+            "r": 50,
+            "spell1": 46,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 125,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 302,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 495,
+        "video_sec": 13.831539156626507,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 49,
+            "w": 42,
+            "e": 45,
+            "r": 49,
+            "spell1": 46,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 125,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 302,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 500,
+        "video_sec": 13.971251673360108,
+        "video_clock": "00:13"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 40,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 131,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 303,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 505,
+        "video_sec": 14.110964190093709,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 131,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 303,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 510,
+        "video_sec": 14.25067670682731,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 48,
+            "w": 41,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 131,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 303,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 515,
+        "video_sec": 14.390389223560911,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 48,
+            "w": 42,
+            "e": 44,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 133,
+                "max": 703,
+                "percent": 17
+            },
+            "mana": {
+                "current": 303,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 520,
+        "video_sec": 14.530101740294512,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 41,
+            "e": 44,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 139,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 304,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 525,
+        "video_sec": 14.669814257028113,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 42,
+            "e": 44,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 139,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 304,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 530,
+        "video_sec": 14.809526773761714,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 42,
+            "e": 44,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 139,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 304,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 535,
+        "video_sec": 14.949239290495315,
+        "video_clock": "00:14"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 43,
+            "e": 44,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 139,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 304,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 540,
+        "video_sec": 15.088951807228916,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 44,
+            "e": 44,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 144,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 305,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 545,
+        "video_sec": 15.228664323962517,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 44,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 144,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 305,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 550,
+        "video_sec": 15.368376840696119,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 50,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 144,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 305,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 555,
+        "video_sec": 15.50808935742972,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 50,
+            "w": 45,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 144,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 305,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 61
+            }
+        },
+        "frame_num": 560,
+        "video_sec": 15.64780187416332,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 51,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 152,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 306,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 565,
+        "video_sec": 15.787514390896922,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 51,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 152,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 306,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 570,
+        "video_sec": 15.927226907630523,
+        "video_clock": "00:15"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 53,
+            "w": 45,
+            "e": 44,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 152,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 306,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 575,
+        "video_sec": 16.066939424364122,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 54,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 152,
+                "max": 703,
+                "percent": 19
+            },
+            "mana": {
+                "current": 306,
+                "max": 418,
+                "percent": 74
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 580,
+        "video_sec": 16.206651941097725,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 55,
+            "w": 45,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 157,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 307,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 585,
+        "video_sec": 16.346364457831324,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 56,
+            "w": 46,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 157,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 307,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 590,
+        "video_sec": 16.486076974564927,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 56,
+            "w": 45,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 163,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 595,
+        "video_sec": 16.625789491298526,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 61,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 163,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 600,
+        "video_sec": 16.76550200803213,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 60,
+            "w": 45,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 163,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 605,
+        "video_sec": 16.90521452476573,
+        "video_clock": "00:16"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 61,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 165,
+                "max": 703,
+                "percent": 22
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 610,
+        "video_sec": 17.04492704149933,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 61,
+            "w": 46,
+            "e": 44,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 171,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 615,
+        "video_sec": 17.18463955823293,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 60,
+            "w": 46,
+            "e": 44,
+            "r": 50,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 171,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 620,
+        "video_sec": 17.324352074966534,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 118,
+            "w": 46,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 171,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 625,
+        "video_sec": 17.464064591700133,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 118,
+            "w": 46,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 171,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 308,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 630,
+        "video_sec": 17.603777108433736,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 118,
+            "w": 46,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 176,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 309,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 635,
+        "video_sec": 17.743489625167335,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 31,
+            "w": 46,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 58
+        },
+        "bars": {
+            "health": {
+                "current": 176,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 309,
+                "max": 418,
+                "percent": 77
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 640,
+        "video_sec": 17.883202141900938,
+        "video_clock": "00:17"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 30,
+            "w": 46,
+            "e": 45,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 176,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 259,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 645,
+        "video_sec": 18.022914658634537,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 32,
+            "w": 45,
+            "e": 45,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 176,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 259,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 650,
+        "video_sec": 18.16262717536814,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 33,
+            "w": 45,
+            "e": 45,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 181,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 260,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 655,
+        "video_sec": 18.30233969210174,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 34,
+            "w": 46,
+            "e": 45,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 181,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 260,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 66
+            }
+        },
+        "frame_num": 660,
+        "video_sec": 18.442052208835342,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 36,
+            "w": 46,
+            "e": 45,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 184,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 260,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 665,
+        "video_sec": 18.58176472556894,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 47,
+            "e": 45,
+            "r": 48,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 184,
+                "max": 703,
+                "percent": 25
+            },
+            "mana": {
+                "current": 260,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 670,
+        "video_sec": 18.721477242302544,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 34,
+            "w": 47,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 189,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 261,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 675,
+        "video_sec": 18.861189759036144,
+        "video_clock": "00:18"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 35,
+            "w": 48,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 189,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 261,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 680,
+        "video_sec": 19.000902275769747,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 36,
+            "w": 48,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 189,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 261,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 685,
+        "video_sec": 19.140614792503346,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 49,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 195,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 262,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 690,
+        "video_sec": 19.28032730923695,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 49,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 195,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 262,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 695,
+        "video_sec": 19.420039825970548,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 50,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 195,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 262,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 700,
+        "video_sec": 19.55975234270415,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 50,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 200,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 263,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 77
+            }
+        },
+        "frame_num": 705,
+        "video_sec": 19.69946485943775,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 36,
+            "w": 50,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 200,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 263,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 710,
+        "video_sec": 19.839177376171353,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 51,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 200,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 263,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 715,
+        "video_sec": 19.978889892904952,
+        "video_clock": "00:19"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 36,
+            "w": 51,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 200,
+                "max": 703,
+                "percent": 27
+            },
+            "mana": {
+                "current": 263,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 720,
+        "video_sec": 20.118602409638555,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 52,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 208,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 264,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 725,
+        "video_sec": 20.258314926372154,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12715.95061728395,
+            "y": 1974.141078838174
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 36,
+            "w": 52,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 208,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 264,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 730,
+        "video_sec": 20.398027443105757,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 36,
+            "w": 54,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 208,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 264,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 735,
+        "video_sec": 20.537739959839357,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 54,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 213,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 740,
+        "video_sec": 20.67745247657296,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12776.938271604939,
+            "y": 2035.8879668049794
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 37,
+            "w": 54,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 53
+        },
+        "bars": {
+            "health": {
+                "current": 213,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 745,
+        "video_sec": 20.81716499330656,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12837.925925925925,
+            "y": 2097.6348547717844
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 35,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 213,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 750,
+        "video_sec": 20.95687751004016,
+        "video_clock": "00:20"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2097.6348547717844
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 36,
+            "w": 56,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 213,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 64
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 755,
+        "video_sec": 21.09659002677376,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12898.913580246914,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 37,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 219,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 760,
+        "video_sec": 21.236302543507364,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 38,
+            "w": 56,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 219,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 87
+            }
+        },
+        "frame_num": 765,
+        "video_sec": 21.376015060240963,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 42,
+            "spell2": 53
+        },
+        "bars": {
+            "health": {
+                "current": 221,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 770,
+        "video_sec": 21.515727576974566,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 221,
+                "max": 703,
+                "percent": 30
+            },
+            "mana": {
+                "current": 265,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 775,
+        "video_sec": 21.655440093708165,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 227,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 266,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 780,
+        "video_sec": 21.795152610441768,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2159.3817427385893
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 55,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 227,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 266,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 785,
+        "video_sec": 21.934865127175367,
+        "video_clock": "00:21"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 53,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 227,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 266,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 790,
+        "video_sec": 22.07457764390897,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 53,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 232,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 267,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 795,
+        "video_sec": 22.21429016064257,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2221.1286307053942
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 56,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 232,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 267,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 800,
+        "video_sec": 22.354002677376172,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 56,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 232,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 267,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 805,
+        "video_sec": 22.49371519410977,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 57,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 232,
+                "max": 703,
+                "percent": 32
+            },
+            "mana": {
+                "current": 267,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 92
+            }
+        },
+        "frame_num": 810,
+        "video_sec": 22.633427710843375,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 57,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 240,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 268,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 815,
+        "video_sec": 22.773140227576974,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2282.875518672199
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 39,
+            "w": 54,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 240,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 268,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 820,
+        "video_sec": 22.912852744310577,
+        "video_clock": "00:22"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 40,
+            "w": 112,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 240,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 268,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 825,
+        "video_sec": 23.052565261044176,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 41,
+            "w": 112,
+            "e": 45,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 245,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 269,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 830,
+        "video_sec": 23.19227777777778,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2344.622406639004
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 42,
+            "w": 112,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 245,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 269,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 835,
+        "video_sec": 23.331990294511378,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2406.369294605809
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 43,
+            "w": 112,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 245,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 269,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 840,
+        "video_sec": 23.47170281124498,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2468.116182572614
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 43,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 251,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 270,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 845,
+        "video_sec": 23.61141532797858,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2529.863070539419
+        },
+        "brightness": {
+            "innate": 127,
+            "q": 45,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 251,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 270,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 850,
+        "video_sec": 23.751127844712183,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 47,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 251,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 270,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 855,
+        "video_sec": 23.890840361445782,
+        "video_clock": "00:23"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2591.609958506224
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 47,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 251,
+                "max": 703,
+                "percent": 35
+            },
+            "mana": {
+                "current": 270,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 100
+            }
+        },
+        "frame_num": 860,
+        "video_sec": 24.030552878179385,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 48,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 45,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 324,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 271,
+                "max": 418,
+                "percent": 66
+            },
+            "experience": {
+                "percent": 1
+            }
+        },
+        "frame_num": 865,
+        "video_sec": 24.170265394912985,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 46,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 324,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 301,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 870,
+        "video_sec": 24.309977911646588,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 46,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 324,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 301,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 875,
+        "video_sec": 24.449690428380187,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2653.3568464730292
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 113,
+            "e": 45,
+            "r": 49,
+            "spell1": 46,
+            "spell2": 57
+        },
+        "bars": {
+            "health": {
+                "current": 324,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 301,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 880,
+        "video_sec": 24.58940294511379,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2715.103734439834
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 329,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 302,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 885,
+        "video_sec": 24.72911546184739,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2776.850622406639
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 114,
+            "e": 45,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 329,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 302,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 890,
+        "video_sec": 24.868827978580992,
+        "video_clock": "00:24"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2838.597510373444
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 114,
+            "e": 95,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 329,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 302,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 895,
+        "video_sec": 25.00854049531459,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2838.597510373444
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 48,
+            "w": 114,
+            "e": 115,
+            "r": 48,
+            "spell1": 42,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 329,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 302,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 900,
+        "video_sec": 25.148253012048194,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2838.597510373444
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 48,
+            "w": 114,
+            "e": 116,
+            "r": 48,
+            "spell1": 42,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 335,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 303,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 905,
+        "video_sec": 25.287965528781793,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2838.597510373444
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 114,
+            "e": 114,
+            "r": 48,
+            "spell1": 42,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 335,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 303,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 910,
+        "video_sec": 25.427678045515396,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2838.597510373444
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 48,
+            "w": 113,
+            "e": 117,
+            "r": 48,
+            "spell1": 42,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 335,
+                "max": 768,
+                "percent": 43
+            },
+            "mana": {
+                "current": 303,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 915,
+        "video_sec": 25.567390562248995,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2900.344398340249
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 49,
+            "w": 114,
+            "e": 119,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 340,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 304,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 920,
+        "video_sec": 25.7071030789826,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13081.876543209877,
+            "y": 2900.344398340249
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 49,
+            "w": 114,
+            "e": 116,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 340,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 304,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 925,
+        "video_sec": 25.846815595716198,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 50,
+            "w": 113,
+            "e": 120,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 340,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 304,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 930,
+        "video_sec": 25.9865281124498,
+        "video_clock": "00:25"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 50,
+            "w": 113,
+            "e": 116,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 340,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 304,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 935,
+        "video_sec": 26.1262406291834,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 51,
+            "w": 113,
+            "e": 119,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 345,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 305,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 940,
+        "video_sec": 26.265953145917003,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 126,
+            "q": 52,
+            "w": 113,
+            "e": 116,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 345,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 305,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 945,
+        "video_sec": 26.405665662650602,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 53,
+            "w": 113,
+            "e": 125,
+            "r": 48,
+            "spell1": 44,
+            "spell2": 56
+        },
+        "bars": {
+            "health": {
+                "current": 345,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 305,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 950,
+        "video_sec": 26.545378179384205,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 54,
+            "w": 113,
+            "e": 124,
+            "r": 48,
+            "spell1": 43,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 345,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 305,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 955,
+        "video_sec": 26.685090696117804,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 55,
+            "w": 113,
+            "e": 124,
+            "r": 48,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 306,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 960,
+        "video_sec": 26.824803212851407,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 56,
+            "w": 113,
+            "e": 127,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 306,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 965,
+        "video_sec": 26.964515729585006,
+        "video_clock": "00:26"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 56,
+            "w": 113,
+            "e": 125,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 306,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 970,
+        "video_sec": 27.10422824631861,
+        "video_clock": "00:27"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 61,
+            "w": 113,
+            "e": 125,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 306,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 975,
+        "video_sec": 27.24394076305221,
+        "video_clock": "00:27"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 61,
+            "w": 113,
+            "e": 129,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 307,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 980,
+        "video_sec": 27.38365327978581,
+        "video_clock": "00:27"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 61,
+            "w": 113,
+            "e": 125,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 307,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 985,
+        "video_sec": 27.52336579651941,
+        "video_clock": "00:27"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 12959.901234567902,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 61,
+            "w": 113,
+            "e": 127,
+            "r": 49,
+            "spell1": 43,
+            "spell2": 54
+        },
+        "bars": {
+            "health": {
+                "current": 351,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 307,
+                "max": 449,
+                "percent": 69
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 990,
+        "video_sec": 27.663078313253013,
+        "video_clock": "00:27"
+    },
+    {
+        "pov_champ": 4,
+        "location": {
+            "x": 13020.888888888889,
+            "y": 2962.091286307054
+        },
+        "brightness": {
+            "innate": 125,
+            "q": 60,
+            "w": 113,
+            "e": 124,
+            "r": 49,
+            "spell1": 44,
+            "spell2": 55
+        },
+        "bars": {
+            "health": {
+                "current": 352,
+                "max": 768,
+                "percent": 45
+            },
+            "mana": {
+                "current": 307,
+                "max": 449,
+                "percent": 71
+            },
+            "experience": {
+                "percent": 6
+            }
+        },
+        "frame_num": 995,
+        "video_sec": 27.802790829986613,
+        "video_clock": "00:27"
+    }
+]
